@@ -1,0 +1,23 @@
+h1{
+    display: flex;
+background-color: rgb(143, 55, 70);
+padding: 0;
+margin: 0;
+}
+h2{
+    background-color: orange;
+    padding: 0;
+    margin: 0;
+}
+aside{
+    background-color: brown;
+}
+.firstclass{
+    background-color: rgb(74, 74, 163);
+}
+.secondclass{
+    background-color: rgb(74, 74, 163);
+}
+footer{
+    background-color: blueviolet;
+}
